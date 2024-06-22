@@ -1,1 +1,1 @@
-elastic/filebeat:8.14.1
+xuxueli/xxl-job-admin:2.4.0
