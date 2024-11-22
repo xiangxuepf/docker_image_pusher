@@ -1,2 +1,4 @@
 xuxueli/xxl-job-admin:2.4.0
 mysql:5.7
+redis
+consul
