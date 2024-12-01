@@ -2,3 +2,4 @@ xuxueli/xxl-job-admin:2.4.0
 mysql:5.7
 redis
 consul:1.8.8
+rocketmq:5.3.1
